@@ -1,4 +1,4 @@
-📰 Bloomberg Crypto Lokal 🇮🇩
+📰 Bloomberg Crypto Lokal 
 Bloomberg Crypto Lokal adalah dashboard real-time yang menampilkan informasi pasar kripto terupdate, termasuk:
 
 Harga aset crypto populer
@@ -11,7 +11,6 @@ Berita penting dari berbagai sumber kripto
 
 Ringkasan AI otomatis menggunakan LLM
 
-<p align="center"> <img src="https://github.com/namakamu/bloomberg-local/assets/preview-dashboard.png" alt="Bloomberg Crypto Lokal Screenshot" width="90%"> </p>
 🚀 Fitur Utama
 Fitur	Keterangan
 📈 Harga Crypto	Harga BTC, ETH, SOL dengan perubahan %
