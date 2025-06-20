@@ -20,24 +20,7 @@ Fitur	Keterangan
 🧠 Ringkasan AI	Auto-summarize berita pakai LLM (bisa pakai Groq API atau open-source)
 💬 Telegram Bot (opsional)	Kirim ringkasan otomatis ke Telegram (bisa ditambahkan)
 
-🧱 Struktur Folder
-perl
-Salin
-Edit
-bloomberg-local/
-├── main.py                # Entrypoint (opsional)
-├── config.py              # Konfigurasi API Key
-├── requirements.txt       # Dependensi
-├── ai/
-│   └── summarize.py       # Ringkasan berita AI
-├── backend/
-│   ├── whale_tracker.py   # Simulasi transaksi whale
-│   ├── news_feed.py       # Fetch berita dari RSS
-│   ├── price_feed.py      # Data harga real-time
-│   ├── whale_position.py  # Simulasi posisi long/short
-│   └── whale_position_binance.py # Posisi nyata dari Binance
-└── dashboard/
-    └── app.py             # Streamlit dashboard utama
+
 🛠️ Cara Menjalankan
 1. Clone Repositori
 bash
@@ -60,7 +43,6 @@ text
 Salin
 Edit
 http://localhost:8501
-📸 Screenshot
 
 
 📦 Dependensi Utama
